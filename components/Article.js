@@ -163,8 +163,6 @@ function createArticles(data) {
 const article = document.querySelectorAll(".article");
 const body = document.querySelector("body");
 
-
-
 data.push({
   title: 'alex sad',
   date: '"Aug 14th, 2020"',
